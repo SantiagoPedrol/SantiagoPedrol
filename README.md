@@ -13,5 +13,5 @@
 <a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" alt="santipedrol" height="30" width="40" /></a> 
 <p>
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagopedrol&show_icons=true&locale=en&layout=compact&theme=dark" alt="santiagopedrl" /></p>
 
