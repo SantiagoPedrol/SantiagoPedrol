@@ -1,15 +1,17 @@
-### Hi there 👋
+### <h1 align= "justify"> Hi I´m Santiago <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
 
 
-**SantiagoPedrol/SantiagoPedrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align= "justify"> About be </h2>
 
-Here are some ideas to get you started:
+- 🌱 &nbsp; I’m currently learning Data Science and programing
+- 🎓 &nbsp; Studying Data Science, computer programming and Mathematics at <a href="https://www.unab.edu.ar" target="_blank"> Unab</a> Buenos Aires 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2 align= "justify"> Reach me at my social media </h2>
+<p> 
+<a href="mailto:spedrol213@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="santipedrol" height="30" width="40" /></a> 
+<a href="https://twitter.com/PedrolSanti" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="santipedrol" height="30" width="40" /></a> 
+<a href="" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googledrive.svg" alt="santipedrol" height="30" width="40" /></a> 
+<p>
+
+
+
