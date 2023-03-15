@@ -5,4 +5,4 @@
 
 - 🎓 &nbsp; I’m currently studying Data Science, computer programming and Mathematics at <a href="https://www.unab.edu.ar" target="_blank"> Unab</a> Buenos Aires 
 - 🧠 &nbsp; I also have studied on my owm different programing languages and skills that I´ve used to develop some personal projects.
-- 🌐 &nbsp; You can check all my skills, knowledge and even my projects at my personal <a href="https://santiagopedrol.github.io" target="_blank"> Web Site.<a/>
+- 🌐 &nbsp; You can check all my skills, knowledge and even my projects at my personal <a href="https://santiagopedrol.github.io" target="_blank"> Web Site<a/>.
